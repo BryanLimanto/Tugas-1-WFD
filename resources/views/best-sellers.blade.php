@@ -49,7 +49,7 @@
     <!-- Best Sellers List -->
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-16">
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-            <!-- Book 1 -->
+            <!-- Buku 1 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition duration-300 group">
                 <div class="relative">
                     <img class="w-full h-64 object-cover" src="https://cdn.gramedia.com/uploads/items/9786020649320_the_midnight_library_cov.jpg" alt="Book cover">
@@ -74,7 +74,7 @@
                 </div>
             </div>
 
-            <!-- Book 2 -->
+            <!-- Buku 2 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition duration-300 group">
                 <div class="relative">
                     <img class="w-full h-64 object-cover" src="https://ebook.bungatujuh.sch.id/lib/minigalnano/createthumb.php?filename=images/docs/cover_atomic_habits_perubahan_kecil_yang_memberikan_hasil_luar_biasa.jpg&width=200" alt="Book cover">
@@ -99,7 +99,7 @@
                 </div>
             </div>
 
-            <!-- Book 3 -->
+            <!-- Buku 3 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition duration-300 group">
                 <div class="relative">
                     <img class="w-full h-64 object-cover" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582135294i/36809135.jpg" alt="Book cover">
@@ -124,7 +124,7 @@
                 </div>
             </div>
 
-            <!-- Book 4 -->
+            <!-- Buku 4 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition duration-300 group">
                 <div class="relative">
                     <img class="w-full h-64 object-cover" src="https://elibrary.bsi.ac.id/assets/images/buku/230460.jpg" alt="Book cover">
